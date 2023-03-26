@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <img alt="STS logo" src="../assets/STS_Logo_OG.png" />
     <HelloWorld msg="Shubtown Transmission Services" />
   </div>
 </template>
@@ -16,3 +16,10 @@ export default defineComponent({
   },
 });
 </script>
+
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
