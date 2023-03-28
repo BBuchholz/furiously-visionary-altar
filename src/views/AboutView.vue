@@ -1,6 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <img
+      alt="A Technician In A Cyberpunk Occult Style Working On An Engine"
+      src="../assets/Imagine_Occult-Technician_with-stamp.jpg"
+    />
     <AboutLinks />
   </div>
 </template>
