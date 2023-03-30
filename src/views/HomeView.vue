@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="STS logo" src="../assets/STS_Logo_OG.png" />
+    <img alt="STS logo" src="../assets/STS_Shebton-logo.png" />
     <HelloWorld msg="Shubtown Transmission Services" />
   </div>
 </template>

@@ -1,6 +1,14 @@
 <template>
   <div class="hello">
     <p>
+      Regardless of whether your vehicle exists in the physical realm,
+      potentiates in one of the purely imaginal realms, or occupies that liminal
+      eldritch space we so cherish here in Shebton, our skilled technicians are
+      fully equipped to assist you with custom modifications, repairs,
+      retrofits, or any other services that your heart desires or mind
+      conceives.
+    </p>
+    <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
